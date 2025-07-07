@@ -82,8 +82,7 @@ python ./code/get_sft_data.py
 * Register it in `data/dataset_info.json`
 * Then run training with the configuration in `code/train_configs/bridge_model_llama3_lora_sft.yaml`. Example configuration:
 
-<details>
-<summary>Click to view YAML config</summary>
+
 
 ```yaml
 model_name_or_path: models/Llama-3.2-3B-Instruct
@@ -122,7 +121,6 @@ ddp_timeout: 180000000
 resume_from_checkpoint: null
 ```
 
-</details>
 
 3. **Merge LoRA weights**
 
@@ -142,8 +140,7 @@ As before, place the dataset into `LLaMA-Factory/data/` and register it in `data
 
 2. **Run DPO training with config `code/train_configs/g3_bm25_llama3_lora_dpo.yaml`:**
 
-<details>
-<summary>Click to view YAML config</summary>
+
 
 ```yaml
 model_name_or_path: models/my_bridge_model/sft_/G3
@@ -185,7 +182,7 @@ ddp_timeout: 180000000
 resume_from_checkpoint: null
 ```
 
-</details>
+
 
 3. **Merge LoRA weights**
 
