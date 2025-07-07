@@ -11,10 +11,10 @@
 * **Tool Retrieval Bridge (TRB):** A plug-and-play instruction rewriting module that significantly enhances retrieval under vague queries.
 
 
+<p align="center">
+  <img src="assets/framework.jpg" width="600">
+</p>
 
-<div style="text-align: center;">
-  <img src="assets/framework.jpg" width="70%">
-</div>
 
 ## 🛒Prepare
 
