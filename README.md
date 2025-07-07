@@ -64,7 +64,6 @@ bash exp_pipeline_run.sh
 
 ```
 
-## 👀 Usage Guide
 
 
 ## 🏋️‍♂️ TRB Training
