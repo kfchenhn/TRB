@@ -6,10 +6,8 @@
 
 ### 🌟 Spotlight
 
-* **VGToolBench:** A realistic benchmark featuring ambiguous user instructions to evaluate tool retrievers under real-world vagueness.
-
-* **Tool Retrieval Bridge (TRB):** A plug-and-play instruction rewriting module that significantly enhances retrieval under vague queries.
-
+* **VGToolBench:** A novel benchmark featuring vague, human-like instructions, addressing the mismatch between synthetic benchmarks and real-world tool use scenarios.
+* **Tool Retrieval Bridge (TRB):** A plug-and-play instruction rewriting module that transforms vague queries into retriever-preferred formats, significantly improving tool retrieval across various retrievers.
 
 <p align="center">
   <img src="assets/framework.jpg" width="600">
