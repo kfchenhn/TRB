@@ -59,7 +59,7 @@ python ./code/get_vague_data.py
 
 ## 🚀 Quick Start
 
-You can download our model from [huggingface](https://huggingface.co/going0523/G3_ins_bm25_bridge_model) and try as bellow：
+You can download our model from [huggingface](https://huggingface.co/going0523/G3_ins_bm25_bridge_model) and try it as follows:
 
 ```bash
 cd code
